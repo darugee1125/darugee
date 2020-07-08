@@ -1,5 +1,9 @@
 {
   "dccons": [
+    {"keywords" : ["다루꺼"], "tags": [], "path": "https://raw.githubusercontent.com/darugee1125/darugee/master/darucon/%EB%8B%A4%EB%A3%A8%EA%BA%BC.png"},
+    {"keywords" : ["다루이빨"], "tags": [], "path": "https://raw.githubusercontent.com/darugee1125/darugee/master/darucon/%EB%8B%A4%EB%A3%A8%EC%9D%B4%EB%B9%A8.png"},
+    {"keywords" : ["흐즈믈르그"], "tags": [], "path": "https://raw.githubusercontent.com/darugee1125/darugee/master/darucon/%ED%9D%90%EC%A6%88%EB%AF%88%EB%A5%B4%EA%B7%B8.png"},
+    {"keywords" : ["다루쥐포"], "tags": [], "path": "https://raw.githubusercontent.com/darugee1125/darugee/master/darucon/%EB%8B%A4%EB%A3%A8%EC%A5%90%ED%8F%AC.png"},
     {"keywords" : ["악할악"], "tags": ["다루"], "path": "https://raw.githubusercontent.com/darugee1125/darugee/master/darucon/%EC%95%85%ED%95%A0%EC%95%85.png"},
     {"keywords" : ["혹시혹"], "tags": [], "path": "https://raw.githubusercontent.com/darugee1125/darugee/master/darucon/%ED%98%B9%EC%8B%9C%ED%98%B9.png"},
     {"keywords" : ["다루감사"], "tags": [], "path": "https://raw.githubusercontent.com/darugee1125/darugee/master/darucon/%EB%8B%A4%EB%A3%A8%EA%B0%90%EC%82%AC.png"},
@@ -42,12 +46,7 @@
     {"keywords" : ["깡"], "tags": [], "path": "https://raw.githubusercontent.com/darugee1125/darugee/master/dccon1/%EA%B9%A1.png"},
     {"keywords" : ["꼬우면"], "tags": [], "path": "https://raw.githubusercontent.com/darugee1125/darugee/master/dccon1/%EA%BC%AC%EC%9A%B0%EB%A9%B4.gif"},
     {"keywords" : ["난진적없다"], "tags": [], "path": "https://raw.githubusercontent.com/darugee1125/darugee/master/dccon1/%EB%82%9C%EC%A7%84%EC%A0%81%EC%97%86%EB%8B%A4.png"},
-    {"keywords" : ["내게축구는"], "tags": [], "path": "https://raw.githubusercontent.com/darugee1125/darugee/master/dccon1/%EB%82%B4%EA%B2%8C%EC%B6%95%EA%B5%AC%EB%8A%94.png"},
-    {"keywords" : [""], "tags": [], "path": ""},
-    {"keywords" : [""], "tags": [], "path": ""},
-    {"keywords" : [""], "tags": [], "path": ""},
-    {"keywords" : [""], "tags": [], "path": ""},
-    {"keywords" : [""], "tags": [], "path": ""},
-    {"keywords" : [""], "tags": [], "path": ""}
+    {"keywords" : ["내게축구는"], "tags": [], "path": "https://raw.githubusercontent.com/darugee1125/darugee/master/dccon1/%EB%82%B4%EA%B2%8C%EC%B6%95%EA%B5%AC%EB%8A%94.png"}
+    // {"keywords" : [""], "tags": [], "path": ""}
   ]
 }
